@@ -1,3 +1,3 @@
 # Styled Components
 
-This is a practice project for styled components
+This is a practice project for understanding working with styled components
